@@ -10,3 +10,6 @@ Files:
 - BSTDict: A Dictionary implemented using a Binary Search Tree.
 - ADict: A class for representing a dictionary of key-value pairs.
 
+Workflow Badge Status:
+[![Java CI with Gradle](https://github.com/trevorcarson/Binary-Trees/actions/workflows/gradle.yml/badge.svg)](https://github.com/trevorcarson/Binary-Trees/actions/workflows/gradle.yml)
+
